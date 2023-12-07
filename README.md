@@ -1,2 +1,2 @@
 # ATM_GUI
-ATM GUI using Java
+A simple graphical interface Automated Teller Machine. 
